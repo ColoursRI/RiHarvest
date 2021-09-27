@@ -18,7 +18,7 @@ A potion is applied to your garden by simply grabbing it from your inventory and
 
 <h2>Requirement: Installing BepInEx 5</h2>
 
-This mod uses [BepInEx 5](www.github.com/BepInEx/BepInEx/releases)!
+This mod uses [BepInEx 5](https://github.com/BepInEx/BepInEx/releases)!
 Download the latest version from the link above. If needed, follow the BepInEx [Install Guide](https://docs.bepinex.dev/master/articles/user_guide/installation/unity_mono.html).
 In short: 
 1. Extract the BepInEx zip into your Potion Craft root directory (probably `C:\Program Files (x86)\Steam\steamapps\common\Potion Craft`)
