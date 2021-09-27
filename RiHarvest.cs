@@ -3,8 +3,7 @@ using RiHarvest;
 using HarmonyLib;
 using ObjectBased.Garden.GrowingSpot;
 using System;
-
-[BepInPlugin("org.bepinex.plugins.exampleplugin", "Example Plug-In", "1.0.0.0")]
+[BepInPlugin("net.ri.potioncraft.riharvest", "Use your potions in your garden", "1.0.0.0")]
 public class RiPatcher : BaseUnityPlugin
 {
     void Awake()
