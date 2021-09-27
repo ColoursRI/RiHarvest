@@ -1,7 +1,7 @@
 # RiHarvest
 RiHarvest is a Potion Craft mod which allows you to apply growth and harvest bonuses to your garden using your potions.
 
-This is my first complete mod for a Unity game, so it's entirely possible that it isn't quite as ready for release as I thought. If you run into issues let me know, and if they're particularly major issues then try out this similar mod, [Plentiful Harvest](https://github.com/TommySoucy/PlentifulHarvest), by someone who is clearly a much more experienced modder than I.
+This is my first complete mod for a Unity game, so it's entirely possible that it isn't quite as ready for release as I thought. If you run into issues let me know, and if they're particularly major issues then try out this similar mod, [Plentiful Harvest](https://github.com/TommySoucy/PlentifulHarvest), by someone who is clearly a much more experienced modder than I. Or you might just prefer their implementation to mine.
 
 <h2>How to use</h2>
 A potion is applied to your garden by simply grabbing it from your inventory and placing it somewhwere in the garden. The potion will be consumed, and its effects will be applied to the garden. Potion effects can stack, but only to a certain extent. You will be prevented from oversaturating your garden.
