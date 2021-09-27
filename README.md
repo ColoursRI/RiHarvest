@@ -2,7 +2,7 @@
 A Potion Craft mod which allows you to apply growth and harvest bonuses to your garden using your potions.
 
 <h2>How to use</h2>
-A potion is applied to your garden by simply grabbing it from your inventory and placing it somewhwere in the garden. The potion will be consumed, and its effects will be applied to the garden.
+A potion is applied to your garden by simply grabbing it from your inventory and placing it somewhwere in the garden. The potion will be consumed, and its effects will be applied to the garden. Potion effects can stack, but only to a certain extent. You will be prevented from oversaturating your garden.
 <br><br />
 
 **Growth I**: Your garden will grow extra overnight. Some plants that would have taken a few days will now be ready in the morning.
