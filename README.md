@@ -26,4 +26,5 @@ In short:
 
 
 <h2>The easy part: Installing RiHarvest</h2>
-1. Download the mod, and simply place `RiHarvest.dll` in `PotionCraft/BepInEx/Plugins`.
+
+1. [Download](https://github.com/ColoursRI/RiHarvest/releases) the mod, and simply place `RiHarvest.dll` in `PotionCraft/BepInEx/Plugins`
