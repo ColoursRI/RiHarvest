@@ -17,7 +17,7 @@ namespace RiHarvest
         static void Postfix(ItemFromInventory __instance)
         {
 
-            Console.WriteLine("----- YOU HAVE THIS STUFF -----     Growth: " + GardenTracker.getGrowth() + " Harvest: " + GardenTracker.getHarvest());
+           
             RoomManager roommng = Managers.Room;
 
             if (roommng.currentRoom == RoomManager.RoomIndex.Garden && __instance is PotionItem)
