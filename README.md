@@ -7,8 +7,10 @@ This is my first complete mod for a Unity game, so it's entirely possible that i
 A potion is applied to your garden by simply grabbing it from your inventory and placing it somewhwere in the garden. The potion will be consumed, and its effects will be applied to the garden. Potion effects can stack, but only to a certain extent. You will be prevented from oversaturating your garden.
 <br><br />
 
-**Growth I**: Your garden will grow extra overnight. Some plants that would have taken a few days will now be ready in the morning.
-**Growth II**: Your garden will grow extra overnight. Even more plants that would have taken a few days will now be ready in the morning.
+**Growth I**: Your garden will grow extra over the next coming nights. Some plants that would have taken a few days will now be ready in the morning.
+
+**Growth II**: Your garden will grow extra over the next coming nights. Even more plants that would have taken a few days will now be ready in the morning.
+
 **Growth III**: Your garden will grow extra immediately. In addition, a few Plants that would have taken a few days will also now be ready in the morning.
 
 
